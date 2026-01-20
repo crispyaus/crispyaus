@@ -9,7 +9,7 @@ I am a Full Stack Software Developer, building:<br/>
 ➪ Data Scraping 
 
 ## 📫 Contact
-discord: crispyaus
+discord: xyro.net
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=crispyaus&left_color=green&right_color=red)
 
